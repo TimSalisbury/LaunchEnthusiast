@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:tools="http://schemas.android.com/tools"
+      tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/nav_engines"
+                android:title="@string/engines"/>
+        <item
+                android:id="@+id/nav_rockets"
+                android:title="@string/rockets"/>
+        <item
+                android:id="@+id/nav_launchsites"
+                android:title="@string/launchsites"/>
+        <item
+                android:id="@+id/nav_agencies"
+                android:title="@string/agencies"/>
+        <item
+                android:id="@+id/nav_launches"
+                android:title="@string/launches"/>
+    </group>
+
+    <item android:title="@string/settings">
+        <menu>
+            <item
+                    android:id="@+id/nav_general_settings"
+                    android:title="@string/general_settings"/>
+            <item
+                    android:id="@+id/nav_notification_settings"
+                    android:title="@string/notification_settings"/>
+        </menu>
+    </item>
+
+    <item android:title="@string/other">
+        <menu>
+            <item
+                    android:id="@+id/nav_report_inaccuracy"
+                    android:title="@string/report_inaccuracy"/>
+            <item
+                    android:id="@+id/nav_about"
+                    android:title="@string/about"/>
+        </menu>
+    </item>
+
+</menu>

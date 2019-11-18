@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Cool App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+
+    <string name="engines">Engines</string>
+    <string name="rockets">Rockets</string>
+    <string name="agencies">Agencies</string>
+    <string name="launchsites">Launch Sites</string>
+    <string name="launches">Launches</string>
+
+    <string name="settings">Settings</string>
+    <string name="general_settings">General Settings</string>
+    <string name="notification_settings">Notification Settings</string>
+
+    <string name="other">Other</string>
+    <string name="report_inaccuracy">Report an inaccuracy</string>
+    <string name="about">About</string>
+
+    <string name="thrust">Thrust</string>
+    <string name="thrust_sl">Sea level</string>
+    <string name="thrust_vac">Vacuum</string>
+
+    <string name="dimension">Dimensions</string>
+    <string name="height">Height</string>
+    <string name="diameter">Diameter</string>
+    <string name="mass">Mass</string>
+</resources>

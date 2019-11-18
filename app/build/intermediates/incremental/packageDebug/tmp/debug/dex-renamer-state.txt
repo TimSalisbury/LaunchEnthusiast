@@ -1,0 +1,7 @@
+#Tue Nov 12 14:01:39 NZDT 2019
+base.1=/home/tim/Desktop/LaunchTestTest/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
+path.1=classes.dex
+base.0=/home/tim/Desktop/LaunchTestTest/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

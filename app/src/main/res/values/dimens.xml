@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="nav_header_height">178dp</dimen>
+    <dimen name="header_text_size">18dp</dimen>
+    <dimen name="list_view_engine_height">150dp</dimen>
+    <dimen name="list_view_engine_extended_height">300dp</dimen>
+    <dimen name="list_view_rocket_height">300dp</dimen>
+    <dimen name="list_view_text_size">18dp</dimen>
+    <dimen name="circular_image_size">100dp</dimen>
+    <dimen name="half_circular_image_size">50dp</dimen>
+    <dimen name="text_background_corner_radius">10dp</dimen>
+    <dimen name="layout_corner_radius">5dp</dimen>
+</resources>
